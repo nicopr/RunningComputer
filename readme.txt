@@ -16,7 +16,7 @@ Installation:
 
   long press on (1) toggles mediaplayer screen, the functions for each button are illustrated on the display
 
-- Tap detection works only with my CE implementation:
+- Tap detection works only with my CE and watch firmware implementations:
   Double tap pauses/resumes track recording
   Single tap toggles Running/Mediaplayer screens
 
